@@ -1,4 +1,4 @@
-# Hote-Booking
+# Hotel-Booking
 
 Here’s the updated README file for your Django-based RS Hotel website:  
 
